@@ -21,7 +21,8 @@
 * Example: fake example.
 
 ## Some Open Question:
-* How to handle the Entity(Id)/NaviProp(Id)/NaviProp(Id)/NaviProp(Id)?
+* How to handle the Entity(Id)/NaviProp(Id)/NaviProp(Id)/...../NaviProp(Id)?
 * Infomation in header?
+
 
 
