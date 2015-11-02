@@ -12,7 +12,7 @@
 * POST API for Batch.
 * GET API for Delta request.
 
-## API Property
+## API Properties
 * Description: API desciption.
 * Request URL: 
 * Request Method: POST/GET/PUT/DELETE
@@ -20,7 +20,7 @@
 * Option: OData query option: $select, $expand, $orderby, $filter, $top, $skip, $count, $search
 * Example: fake example.
 
-## Some Open Question:
+## Some Open Questions:
 * How to handle the Entity(Id)/NaviProp(Id)/NaviProp(Id)/...../NaviProp(Id)?
 * Infomation in header?
 
