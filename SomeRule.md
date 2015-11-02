@@ -16,8 +16,12 @@
 * Description: API desciption.
 * Request URL: 
 * Request Method: POST/GET/PUT/DELETE
-* Parameter:
-* Option:
-* Example:
-* Resource Info: format/Etag/......
-* Parameter: Key, function/action parameter
+* Parameter: KeyId, function/action parameter, delta token.
+* Option: OData query option: $select, $expand, $orderby, $filter, $top, $skip, $count, $search
+* Example: fake example.
+
+## Some Open Question:
+* How to handle the Entity(Id)/NaviProp(Id)/NaviProp(Id)/NaviProp(Id)?
+* Infomation in header?
+
+
